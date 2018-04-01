@@ -1,2 +1,2 @@
 # myfirstrepo
-My project files 
+My powerslides on cross validation
